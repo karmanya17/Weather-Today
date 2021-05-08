@@ -1,0 +1,54 @@
+*{
+  margin:0px;
+  padding:0px;
+}
+@font-face {
+  font-family:Lovelo-Black;
+  src:url('fonts/Lovelo-Black.ttf');
+  font-style: normal;
+  font-weight: normal;
+}
+body{
+  background:#FBE0C3;
+  font-family: lovelo-black;
+}
+.header{
+  display:inline-block;
+  text-align: center;
+  margin-left: 4%;
+}
+.title{
+  font-size: 4rem;
+}
+.logo{
+  width:60%;
+}
+.background1{
+display:inline-block;
+width:60vh;
+height:60vh;
+background:#7D8E95;
+border-radius: 41% 24% 55% 54% / 48% 40% 75% 34% ;
+z-index: -1;
+}
+.form{
+  display:flex;
+  justify-content: center;
+  text-align: center;
+  margin-top: 2%;
+
+}
+.background2{
+  float:right;
+  height:50vh;
+  width:50vh;
+  background:#98ddca;
+  z-index: -1;
+  border-radius: 85% 68% 16% 97% / 61% 67% 0% 94%  ;
+}
+.length{
+  width:40%;
+}
+.btn{
+width:10%;
+}
