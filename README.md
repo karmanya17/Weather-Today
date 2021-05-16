@@ -3,5 +3,5 @@
  I used openweathermap API , for fetching the weather information.
  
 <p align="center">
- <img src="public/imagegs/ss1.PNG">
+ <img src="public/images/ss1.PNG">
 </p>
